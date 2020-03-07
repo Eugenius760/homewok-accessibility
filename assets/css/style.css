@@ -198,3 +198,19 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+h3, h4 {
+    font-size: 2em;
+    font-weight: bolder;
+    padding: 10PX;
+}
+
+h5, h6, h7 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
